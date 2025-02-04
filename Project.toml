@@ -1,0 +1,11 @@
+name = "lifagu_extended"
+uuid = "6a38286e-a979-4841-accb-ce3f5182d58f"
+authors = ["Malte Luttermann"]
+version = "0.0.0"
+
+[deps]
+BayesNets = "ba4760a4-c768-5bed-964b-cf806dc591cb"
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
+Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
+Multisets = "3b2b4ff1-bcff-5658-a3ee-dbcf1ce5ac09"
